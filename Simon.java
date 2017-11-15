@@ -39,7 +39,7 @@ public class Simon {
 		}
 	}
 	
-	public static void startGame() //class for actual game code
+	public static void startGame() //class for actual game code 
 	{
 		for(i=0;i<20;i++)
 		{
